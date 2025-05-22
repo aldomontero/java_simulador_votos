@@ -57,6 +57,12 @@ Este proyecto educativo fue desarrollado como parte de un trabajo escolar univer
    ```bash
    java <nombre_de_clase>
    ```
+## Capturas de pantalla
+
+- Página principal.
+![principal.png](_Screenshots/principal.png)
+- Gráfica de conteos.
+![grafica.png](_Screenshots/grafica.png)
 
 > Asegúrate de tener todos los archivos `.java` necesarios en el mismo directorio o configurados correctamente en tu IDE.
 
