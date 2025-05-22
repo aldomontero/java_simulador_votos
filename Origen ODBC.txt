@@ -1,0 +1,3 @@
+Para este proyecto:
+Base de datos: ProyectoIFE.mdb
+Nombre local OBDC: Base_de_datos_del_IFE
